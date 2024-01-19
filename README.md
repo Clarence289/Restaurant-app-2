@@ -22,7 +22,11 @@ Restaurant App is a mobile application developed using React Native. It includes
 Follow these steps to run the project locally:
 
 1. Clone the repository:
+   
 npm install
+
 npm start
+
 ```bash
+
 git clone https://github.com/your-username/restaurant-app-2.git
