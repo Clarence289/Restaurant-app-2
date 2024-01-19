@@ -23,9 +23,9 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    
-npm install
+2. npm install
 
-npm start
+3. npm start,
 
 ```bash
 
